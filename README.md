@@ -41,8 +41,12 @@ You give it 4-6 competitor brand names. It:
 
 Two deliverables:
 
-- **Branded DOCX report** — executive summary, brand-by-brand breakdown, cross-brand pattern analysis, gap analysis, recommended ad angles, consultation CTA
+- **Branded DOCX report** — executive summary, brand-by-brand breakdown, cross-brand pattern analysis, gap analysis, recommended ad angles
 - **Excel workbook** (5 sheets) — executive summary, full brand analysis, pattern analysis matrices, recommended angles, raw data with filters
+
+## Customize Your Branding
+
+Edit `references/branding.md` with your own brand colors, typography, and document structure. The skill reads this file to generate reports that match your brand identity.
 
 ## Example
 
@@ -63,9 +67,9 @@ This is skill 1 of 10 in the **AI Skills for Media Buyers** series by [Baweja Me
 
 ---
 
-## Want a custom competitive analysis for your brand?
+## Want Baweja Media to audit your ad account and explore opportunities to work together?
 
-[Book a strategy session →](https://webinar.sannidhyabaweja.com/vsl-lp-ind)
+[→ Book a free strategy call](https://webinar.sannidhyabaweja.com/vsl-lp-ind)
 
 ---
 
